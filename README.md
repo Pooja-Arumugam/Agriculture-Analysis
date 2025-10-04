@@ -60,13 +60,10 @@ Business Strategy: Help agri-businesses plan supply chains and investments.
 ---
 ## 🤝 Contribution
 
-If you'd like to extend this dashboard:
-
-Fork this repository.
-
-Make changes in Power BI.
-
-Submit a pull request.
+- If you'd like to extend this dashboard:
+   1. Fork this repository.
+   2. Make changes in Power BI.
+   3. Submit a pull request.
 ---
 
 
