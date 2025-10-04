@@ -4,7 +4,7 @@ This repository contains a **Power BI dashboard** for analyzing agricultural dat
 
 ---
 
-## 📊 Features
+## Features
 
 - **Crop Production Analysis**  
   Visualizes trends in crop output over time and across regions.  
@@ -23,7 +23,7 @@ This repository contains a **Power BI dashboard** for analyzing agricultural dat
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To open and explore the dashboard, you need:
 
@@ -32,7 +32,7 @@ To open and explore the dashboard, you need:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Download and install **Power BI Desktop**.  
 2. Clone this repository or download the `.pbix` file.  
@@ -50,7 +50,7 @@ To open and explore the dashboard, you need:
 └── README.md                   # Project documentation
 '''
 ---
-## 📈 Use Cases
+## Use Cases
 
 Policy Making: Support decisions on crop subsidies, land usage, and irrigation planning.
 
@@ -58,7 +58,7 @@ Research: Understand agricultural trends across regions and seasons.
 
 Business Strategy: Help agri-businesses plan supply chains and investments.
 ---
-## 🤝 Contribution
+## Contribution
 
 - If you'd like to extend this dashboard:
    1. Fork this repository.
