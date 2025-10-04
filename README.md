@@ -45,10 +45,11 @@ To open and explore the dashboard, you need:
 
 ## File Structure
 
-'''bash
+```bash
+|
 ├── Agriculture Analysis.pbix   # Power BI dashboard
 └── README.md                   # Project documentation
-'''
+```
 
 ---
 ## Use Cases
